@@ -7,7 +7,7 @@ if (username == "") {
 document.getElementById("name").innerHTML = username;
 
 var rand = Math.floor(Math.random() * 5);
-//Math.random()　0以上1未満の範囲で浮動小数点の擬似乱数を返す
+//Math.random()　0以上1未満の範囲で浮動小数点の擬似乱数を返す 
 
 if (rand == 0) {
     userresult = "大吉";
