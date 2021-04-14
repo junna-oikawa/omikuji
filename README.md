@@ -1,4 +1,4 @@
 # DMM WEBCAMP　WEBアプリケーション開発コース（選考コンテンツ）【Webサイトを作ってみよう】
 DMM WEBCAMP　WEBアプリケーション開発コース（選考コンテンツ）Webサイトを作ってみよう　２章【Webアプリケーションを作ってみよう】の研修課題です。
 ## 使い方
-html/cssファイル、JavaScriptファイルのため、PCのブラウザで実行できます。
+html/cssファイル、JavaScriptファイルのため、PCのブラウザで実行できます。 
